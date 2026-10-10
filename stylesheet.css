@@ -1,25 +1,28 @@
 body {
 color: gray;
-background: white;
+background: #89CFF0;
 font-family: Verdana,Arial,Helvetica,sans-serif;
 margin-left: 10%;
 margin-right: 10%;
 }
 h1 {
-color: #457926;
+color: #0077b6;
 font-family: Georgia,"Times New Roman",Times,serif;
 font-size: 2em;
 text-transform: uppercase;
 margin-left: -8%;
 }
 h2 {
-color: #457926;
+color: #0077b6;
 font-family: Georgia,"Times New Roman",Times,serif;
 font-size: 1.7em;
 border: solid;
 margin-left: -4%;
 margin-top: 2em;
 margin-bottom: 2em;
+}
+h3{
+color: #FFA500;
 }
 p {
 font-size: 1.2em;
