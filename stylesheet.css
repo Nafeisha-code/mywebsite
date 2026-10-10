@@ -5,25 +5,7 @@ font-family: Verdana,Arial,Helvetica,sans-serif;
 margin-left: 60%;
 margin-right: 10%;
 }
-image{
-width :fit-content
-height:fit-content   
-}
-.sidebar {
-width: 180px;
-height:100vh;
-position: fixed;
-top: 0
-left: 0;
-background-color: #000080;
-padding: 20px;
-box-sizing: border-box;
-}
-.sidebar-img{
-width: 100%;
-height: fit-content;
-margin-bottom: 12px;
-}
+
 h1 {
 color: #0077b6;
 font-family: Georgia,"Times New Roman",Times,serif;
