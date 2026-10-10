@@ -11,11 +11,15 @@ height:100vh;
 position: fixed;
 top: 0
 left: 0;
-background-color: #00008B;
+background-color: #000080;
 padding: 20px;
 box-sizing: border-box;
 }
-
+.sidebar-img{
+width: 100%;
+height: fit-content;
+margin-bottom: 12px;
+}
 h1 {
 color: #0077b6;
 font-family: Georgia,"Times New Roman",Times,serif;
@@ -33,7 +37,7 @@ margin-top: 2em;
 margin-bottom: 2em;
 }
 h3{
-color: #382b21;
+color: #f39045;
 }
 p {
 font-size: 1.2em;
