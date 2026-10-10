@@ -2,8 +2,12 @@ body {
 color: gray;
 background: #89CFF0;
 font-family: Verdana,Arial,Helvetica,sans-serif;
-margin-left: 10%;
+margin-left: 60%;
 margin-right: 10%;
+}
+image{
+width :fit-content
+height:fit-content   
 }
 .sidebar {
 width: 180px;
@@ -37,7 +41,7 @@ margin-top: 2em;
 margin-bottom: 2em;
 }
 h3{
-color: #f39045;
+color: #fa8830;
 }
 p {
 font-size: 1.2em;
