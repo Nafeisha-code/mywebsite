@@ -58,7 +58,7 @@ color: blue;
 }
 
 .sidebar {
-    flex: 0 0 250px;
+    flex: 0 0 300px;
     box-sizing: border-box;
     padding: 20px;
     background-color: #0077b6;
