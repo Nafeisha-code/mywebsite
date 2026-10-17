@@ -74,4 +74,5 @@ color: blue;
   width: 600px;
   max-width: 100%;
   height: auto;
+  border: 5px solid rgb(5, 155, 188);
 }
