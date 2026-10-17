@@ -70,8 +70,8 @@ color: blue;
     padding: 20px 40px;
 }
 
-.data {
-  max-width: 600px;
-  width: 100%;
+.data-img{
+  max-width: 300px;
+  width: 50%;
   height: auto;
 }
